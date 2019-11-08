@@ -63,7 +63,7 @@ class LoginPage extends Component {
     const { email, password } = this.state;
 
     return (
-      <View style={styles.container} test>
+      <View style={styles.container} test2>
         <Item>
           <Input
             keyboardType="email-address"
