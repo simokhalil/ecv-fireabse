@@ -64,8 +64,6 @@ class LoginPage extends Component {
 
     return (
       <View style={styles.container}>
-
-
         <Item>
           <Input
             keyboardType="email-address"
